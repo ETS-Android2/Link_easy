@@ -161,7 +161,7 @@ public class CustomPopUp extends Dialog {
 
         TextView deviceTextView             = findViewById(R.id.textView);
         final TextView protocolTextView     = findViewById(R.id.textView3);
-        final TextView tauxUtilisation      = findViewById(R.id.textView18);
+        //final TextView tauxUtilisation      = findViewById(R.id.textView18);
         final EditText tauxUtilisationEdit  = findViewById(R.id.editTextTextPersonName);
         final Button faitButton             = findViewById(R.id.button);
         final Button ajouterButton          = findViewById(R.id.button2);
@@ -213,7 +213,7 @@ public class CustomPopUp extends Dialog {
         faitButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 //visibilité de l'affichage
-                tauxUtilisation.setVisibility(      GONE);
+                //tauxUtilisation.setVisibility(      GONE);
                 tauxUtilisationEdit.setVisibility(  GONE);
                 faitButton.setVisibility(           GONE);
                 debranchable.setVisibility(         GONE);

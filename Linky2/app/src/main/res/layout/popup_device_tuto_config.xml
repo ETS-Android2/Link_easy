@@ -60,6 +60,8 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="25dp"
         android:text="Ne plus afficher"
+        android:buttonTint="@color/dark_linky"
+        android:backgroundTint="@color/dark_linky"
         android:textColor="@color/primary_text"
         app:layout_constraintBottom_toBottomOf="@+id/tuto_understand"
         app:layout_constraintStart_toStartOf="parent"
