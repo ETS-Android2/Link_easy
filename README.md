@@ -78,6 +78,7 @@ Veuillez lire [CONTRIBUTING.md](https://github.com/ThomasCochou/Link_easy/blob/m
 ## Auteur
 
 * **William Le Corre** - [Compte GitHub](https://github.com/willeco)
+* **Thomas Cochou** - [Compte GitHub](https://github.com/ThomasCochou)
 
 Voir également la liste des [contributeurs](https://github.com/ThomasCochou/Link_easy/graphs/contributors) qui ont participé au projet.
 
